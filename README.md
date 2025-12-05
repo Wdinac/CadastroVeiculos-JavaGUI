@@ -25,19 +25,6 @@ Tudo é armazenado em memória usando uma lista interna, e os dados são exibido
 
 ---
 
-## 📂 Estrutura do Projeto
-
-AvaliacaoVeiculo/
-│
-├── src/
-│ ├── AppVeiculosGUI.java # Interface gráfica (CRUD completo)
-│ └── Veiculo.java # Classe que representa um veículo
-│
-└── README.md
-
-
----
-
 ## ✨ Funcionalidades
 
 ### ➕ Cadastrar Veículo
